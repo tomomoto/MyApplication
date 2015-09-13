@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession14_menu_group/lession14_menu_group.iml" filepath="$PROJECT_DIR$/lession14_menu_group/lession14_menu_group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession15_context_menu/lession15_context_menu.iml" filepath="$PROJECT_DIR$/lession15_context_menu/lession15_context_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession6_layouts/lession6_layouts.iml" filepath="$PROJECT_DIR$/lession6_layouts/lession6_layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession8_code_elements/lession8_code_elements.iml" filepath="$PROJECT_DIR$/lession8_code_elements/lession8_code_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession9_button_handler/lession9_button_handler.iml" filepath="$PROJECT_DIR$/lession9_button_handler/lession9_button_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson10_resourses/lesson10_resourses.iml" filepath="$PROJECT_DIR$/lesson10_resourses/lesson10_resourses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
+    </modules>
+  </component>
+</project>
